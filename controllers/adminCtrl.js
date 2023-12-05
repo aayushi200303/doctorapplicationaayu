@@ -19,7 +19,7 @@ const getAllUsersController = async (req, res) => {
   }
 };
 
-//fbsfbssvvb app forme sjdjsbvsfbvsbfvsf
+//fbsfbssvvb app forsdgsfgfsgme sjdjsbvsfbvsbfvsf
 const getAllDoctorsController = async (req, res) => {
   try {
     const doctors = await doctorModel.find({});
